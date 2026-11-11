@@ -1,0 +1,2 @@
+# CHESS.js
+Chess script 
